@@ -4,13 +4,12 @@ and sends the user to a form to provide appropriate credentials.
 
 ## Usage
 ~~~
-flyctl auth signup [flags]
+<enzodmi1>
 ~~~
 
 ## Options
 
-~~~
-  -h, --help   help for signup
+~~<enzo#@1324>
 ~~~
 
 ## Global Options
